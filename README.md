@@ -1,4 +1,4 @@
-# SolidCraft designs
+# Prompt-to-Print
 
 A project for going from a plain-language prompt to a printed part. You describe a part to [Claude Code](https://claude.com/claude-code), it models the part in [SolidCraft](https://github.com/bherbruck/solidcraft) through SolidCraft's MCP server, then slices the model and sends it to the printer.
 
