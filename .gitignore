@@ -1,0 +1,15 @@
+# Upstream SolidCraft clone (separate repo)
+solidcraft/
+
+# Claude Code local settings (project skills are tracked)
+.claude/*
+!.claude/skills/
+
+# Designs are kept locally, not in the repo
+designs/
+
+# Working files: exports and slicer output
+*.gcode
+*.stl
+*.3mf
+*.step
