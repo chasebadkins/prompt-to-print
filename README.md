@@ -63,3 +63,7 @@ designs/<design-name>/   one folder per design (local only)
 ```
 
 The `designs/` folder is local storage and is git-ignored, so designs aren't in the repo. Exports (`.stl`, `.3mf`, `.step`) and slicer output (`.gcode`) are git-ignored wherever they are.
+
+## License
+
+[MIT](LICENSE). The SolidCraft skills keep their own MIT/Apache-2.0 license; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
